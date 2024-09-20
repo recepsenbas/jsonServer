@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "UserDetail": {
+  "userDeviceCount": 3,
+  "userDevices": [
+  "AAA123",
+  "BBBB123",
+  "CCCC123"
+  ]
   }
-}
+  }
