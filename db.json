@@ -27,9 +27,8 @@
   ],
   "recep": [
   {
-  "id": 1,
-  "body": "some comment",
-  "postId": 1
+  "Deneme":1,
+  "DeviceID": "aaaaaaaa"
   },
   {
   "id": 2,
