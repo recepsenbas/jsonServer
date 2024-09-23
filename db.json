@@ -38,5 +38,62 @@
   ],
   "profile": {
   "name": "typicode"
+  },
+  "araba": [
+    {
+      "araba_adi": "Mercedes",
+      "ulke": "Almanya",
+      "kurulus_yili": 1926,
+      "model":[
+          {
+          "model_adi": "C Serisi",      
+          "fiyat": 200000,
+          "benzin": true,
+          "dizel": true
+          },
+          {
+              "model_adi": "E Serisi",
+              "fiyat": 300000,
+              "benzin": true
+          }
+      ]
+
+  },
+  {
+      "araba_adi": "BMW",
+      "ulke": "Almanya",
+      "kurulus_yili": 1916,
+      "model":[
+          {
+          "model_adi": "3 Serisi",      
+          "fiyat": 180000,
+          "benzin": true
+          },
+          {
+              "model_adi": "5 Serisi",
+              "fiyat": 250000,
+              "benzin": true
+          }
+      ]
+
+  },
+  {
+      "araba_adi": "Audi",
+      "ulke": "Almanya",
+      "kurulus_yili": 1909,
+      "model":[
+          {
+          "model_adi": "A3",      
+          "fiyat": 150000,
+          "benzin": true
+          },
+          {
+              "model_adi": "A4",
+              "fiyat": 200000,
+              "benzin": true
+          }
+      ]
+
   }
+  ]
   }
